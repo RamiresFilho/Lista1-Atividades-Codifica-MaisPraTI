@@ -20,13 +20,13 @@ Os exercícios abordam os seguintes tópicos fundamentais da programação:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/RamiresFilho/Lista1-Atividades-Codifica-MaisPraTI.git
 ```
 
 2. Acesse o diretório do projeto:
 
 ```bash
-cd seu-repositorio
+cd Lista1-Atividades-Codifica-MaisPraTI
 ```
 
 3. Instale a biblioteca necessária:
@@ -48,5 +48,6 @@ const prompt = require('prompt-sync')();
 Execute os programas diretamente pelo terminal com o Node.js:
 
 ```bash
-node nome-do-arquivo.js
+Ex.: node Atividade_01.js
+Esse comando irá executar a atividade1.js
 ```
